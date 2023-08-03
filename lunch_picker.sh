@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the lunch options
-lunch_options=("Taco Bell tacos" "Taco Bell burritos" "Slice's pizza" "Five Guy's burger" "Jimmy John's sandwich" "Ike's sandwich" "Otto's pizza" "Chick-fil-A" "Jack in the Box")
+lunch_options=("tacos" "pizza" "burger" "sandwich")
 
 # Get the number of options
 num_options=${#lunch_options[@]}
