@@ -3,6 +3,10 @@
 # Define the lunch options
 lunch_options=("tacos" "pizza" "burger" "sandwich")
 
+# Use this set of options if you happen to be in downtown Tempe
+# lunch_options=("Taco Bell" "Illegal Petes" "Mesquite Mex" "Jack's Slider House" "Slice's" "Five Guy's" "Jimmy John's" "Ike's Sandwiches" "Pita Jungle" "Med Fresh Grill" "Otto's" "Chick-fil-A" "Jack in the Box")
+
+
 # Get the number of options
 num_options=${#lunch_options[@]}
 
