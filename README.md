@@ -1,6 +1,6 @@
 # Lunch Picker Script
 
-This is a Bash script that randomly chooses a lunch option from a predefined list and ensures that the same option in the last 5 days.
+This is a Bash script that randomly chooses a lunch option from a predefined list and ensures that the same option is not chosen from the last 5 days.
 
 ## Usage
 
@@ -28,5 +28,3 @@ If you want to add or modify lunch options, open the `lunch_picker.sh` file in a
 # Define the lunch options
 lunch_options=("tacos" "pizza" "burger" "sandwich")
 ```
-
-Please note that if you run this script multiple times on the same day, it may give the same lunch option until a new day begins.
