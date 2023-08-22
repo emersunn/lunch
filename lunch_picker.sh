@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the lunch options
-lunch_options=("tacos" "pizza" "burger" "sandwich")
+lunch_options=("tacos" "pizza" "burger" "sandwich" "burrito" "salad" "sushi")
 # For Downtown Tempe lunch_options=("Taco Bell" "Illegal Pete's" "Mesquite Mex" "Jack's Slider House" "Slices" "Five Guys" "Jimmy John's" "Ike's Sandwiches" "Otto Pizza" "Chick-fil-A" "Jack in the Box")
 
 # Get the number of options
