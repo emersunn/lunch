@@ -1,6 +1,6 @@
 # Lunch Picker Script
 
-This is a Bash script that randomly chooses a lunch option from a predefined list and ensures that the same option is not selected two days in a row.
+This is a Bash script that randomly chooses a lunch option from a predefined list and ensures that the same option in the last 5 days.
 
 ## Usage
 
